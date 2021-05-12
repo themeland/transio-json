@@ -1,0 +1,200 @@
+{
+    "promo": {
+        "promoData": [
+            {
+              "id": 1,
+              "icon": "icons icon-fire text-effect",
+              "title": "Easy Booking",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+              "id": 2,
+              "image": "icons icon-feed text-effect",
+              "title": "Global Coverage",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+              "id": 3,
+              "image": "icons icon-earphones-alt text-effect",
+              "title": "Customer support",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    },
+    "content": {
+        "heading": "Go Global with Ease",
+        "headingTwo": "Round-the-Clock Support",
+        "headingThree": "Easy Booking, Multiple Services",
+        "headingFour": "Giving you Clear Visibility",
+        "headingFive": "Track your Shipment and Cargo Delivered",
+        "headingSix": "Take the Hassle Out of Logistics",
+        "btn": "Learn More",
+        "thumb": "/img/content/content_1.png",
+        "thumbTwo": "/img/content/content_2.png",
+        "contentData": [
+            {
+                "id": 1,
+                "icon": "icon-arrow-right-circle",
+                "title": "Easy booking, multiple services",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolores fuga magni, saepe velit autem."
+            },
+            {
+                "id": 2,
+                "icon": "icon-arrow-right-circle",
+                "title": "Giving you clear visibility",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolores fuga magni, saepe velit autem."
+            },
+            {
+                "id": 3,
+                "icon": "icon-arrow-right-circle",
+                "title": "Manage your shipments in one place",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolores fuga magni, saepe velit autem."
+            }
+        ],
+        "contentDataTwo": [
+            {
+                "id": 1,
+                "icon": "icon-arrow-right-circle",
+                "title": "Personalised service",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolores fuga magni, saepe velit autem."
+            },
+            {
+                "id": 2,
+                "icon": "icon-arrow-right-circle",
+                "title": "Valuable partnerships",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolores fuga magni, saepe velit autem."
+            },
+            {
+                "id": 3,
+                "icon": "icon-arrow-right-circle",
+                "title": "Customs House Brokerage",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dolores fuga magni, saepe velit autem."
+            }
+        ]
+    },
+    "service": {
+        "heading": "Our Services",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "btn": "Explore All Services",
+        "serviceData": [
+            {
+                "id": 1,
+                "image": "/img/service_1.jpg",
+                "title": "Road Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "View Service"
+            },
+            {
+                "id": 2,
+                "image": "/img/service_2.jpg",
+                "title": "Ocean Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "View Service"
+            },
+            {
+                "id": 3,
+                "image": "/img/service_3.jpg",
+                "title": "Air Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "View Service"
+            },
+            {
+                "id": 4,
+                "image": "/img/service_4.jpg",
+                "title": "Train Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "View Service"
+            },
+            {
+                "id": 5,
+                "image": "/img/service_5.jpg",
+                "title": "Customs Clearance",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "View Service"
+            },
+            {
+                "id": 6,
+                "image": "/img/service_6.jpg",
+                "title": "Warehouse Solutions",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "View Service"
+            }
+        ],
+        "serviceDataTwo": [
+            {
+                "id": 1,
+                "icon": "icons flaticon-truck text-effect",
+                "title": "Road Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 2,
+                "icon": "icons flaticon-boat text-effect",
+                "title": "Ocean Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 3,
+                "icon": "icons flaticon-airplane text-effect",
+                "title": "Air Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 4,
+                "icon": "icons flaticon-train text-effect",
+                "title": "Train Freight",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 5,
+                "icon": "icons flaticon-container text-effect",
+                "title": "Customs Clearance",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 6,
+                "icon": "icons flaticon-loading text-effect",
+                "title": "Warehouse Solutions",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    },
+    "work": {
+        "heading": "How It Works?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "workData": [
+            {
+                "id": 1,
+                "process": "01",
+                "title": "Create An Account",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 2,
+                "process": "02",
+                "title": "Compare Shipment Rates",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 3,
+                "process": "03",
+                "title": "Book your Shipment",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 4,
+                "process": "04",
+                "title": "Prepare your Shipment",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    }
+}
