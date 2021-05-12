@@ -9,13 +9,13 @@
             },
             {
               "id": 2,
-              "image": "icons icon-feed text-effect",
+              "icon": "icons icon-feed text-effect",
               "title": "Global Coverage",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             },
             {
               "id": 3,
-              "image": "icons icon-earphones-alt text-effect",
+              "icon": "icons icon-earphones-alt text-effect",
               "title": "Customer support",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             }
