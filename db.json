@@ -3,19 +3,19 @@
         "promoData": [
             {
               "id": 1,
-              "icon": "icons icon-fire text-effect",
+              "iconclass": "icons icon-fire text-effect",
               "title": "Easy Booking",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             },
             {
               "id": 2,
-              "icon": "icons icon-feed text-effect",
+              "iconclass": "icons icon-feed text-effect",
               "title": "Global Coverage",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             },
             {
               "id": 3,
-              "icon": "icons icon-earphones-alt text-effect",
+              "iconclass": "icons icon-earphones-alt text-effect",
               "title": "Customer support",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             }
