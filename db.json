@@ -29,8 +29,8 @@
         "headingFive": "Track your Shipment and Cargo Delivered",
         "headingSix": "Take the Hassle Out of Logistics",
         "btn": "Learn More",
-        "thumb": "/img/content/content_1.png",
-        "thumbTwo": "/img/content/content_2.png",
+        "thumb": "/img/content_1.png",
+        "thumbTwo": "/img/content_2.png",
         "contentData": [
             {
                 "id": 1,
@@ -75,7 +75,7 @@
     "service": {
         "heading": "Our Services",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-        "content-two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "contentTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "btn": "Explore All Services",
         "serviceData": [
             {
