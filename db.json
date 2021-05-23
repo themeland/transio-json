@@ -196,5 +196,10 @@
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             }
         ]
+    },
+    "cta": {
+        "heading": "Have you Insured your Cargo?",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quaerat iusto vel aliquid adipisci quia pariatur libero dolor, ducimus voluptatum.",
+        "btn": "Contact Us"
     }
 }
